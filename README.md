@@ -2,7 +2,7 @@
 XZ for Java
 ===========
 
-Introduction
+Introduction 
 ------------
 
   [XZ for Java](<https://tukaani.org/xz/java.html>) aims to be
